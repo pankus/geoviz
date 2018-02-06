@@ -1,0 +1,8 @@
+venv
+venv_OLD
+config.py
+*.wsgi
+*.pyc
+*.db
+*.sublime-project
+*.sublime-workspace

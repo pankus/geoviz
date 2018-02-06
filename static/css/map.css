@@ -1,0 +1,17 @@
+/* CSS Cluster SITI */
+.bluSite {
+	background-clip: padding-box;
+	border-radius: 20px;
+	background-color: rgba(66, 139, 202, 0.8);
+}
+.bluSite div { 
+	width: 30px;
+	height: 30px;
+	margin-left: 5px;
+	margin-top: 5px;
+	text-align: center;
+	border-radius: 15px;
+	font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+	background-color: rgba(53, 126, 189, 0.8);
+}
+.bluSite span { line-height: 30px; font-weight: bold; color:#fff; }
